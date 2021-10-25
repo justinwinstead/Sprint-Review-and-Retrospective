@@ -1,2 +1,7 @@
 # SprintReviewAndRetrospective
-Sprint review and retrospective for SNHU CS-250
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this? <br><br>
+I process user needs into understandable user stories by breaking down their wants into ideas on functionality. It is vital for software developers to bridge this gap and understand what a user truly desires to create a product that provides the most possible value.<br><br>
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?<br><br>
+My approach to programming has changed over the course of this class. I was a lot more haphazard in the way that I coded. Now, I have begun reading requirements for projects and breaking them into digestible user stories and test cases to assure I have arrived at the desired functionality.<br><br>
+What does it mean to be a good team member in software development?<br><br>
+I think that being a good team member is extremely subjective. For me, communication and flexibility are vital to a team's success. So, maintaining clear and concise communication is extremely important to me. Without good communication, no one knows what is going on in the project and it will inevitably fail. In addition, team members should understand the need to be able to change things on the fly. Otherwise, we wouldn't be able to adapt to changing requirements.
